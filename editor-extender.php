@@ -4,7 +4,7 @@
 	Plugin URI: http://benjaminsterling.com/wordpress-plugins/wordpress-editor-extender/
 	Description: Extends the features of the rich text editor for Wordpress
 	Author: Benjamin Sterling
-	Version: 0.2
+	Version: 0.2.1
 	Author URI: http://benjaminsterling.com
 
 	Copyright 2011 by Benjamin Sterling
@@ -173,7 +173,7 @@ function ee_mce_buttons_4($array = array()){
 add_filter('mce_buttons_4', 'ee_mce_buttons_4', 1, 1);
 
 function ee_add_pages() {
-    add_options_page('Editor Extender Options', 'Editor Extender', 8, __FILE__, 'ee_options_page');
+    add_options_page('Editor Extender Options', 'Editor Extender', 'activate_plugins', __FILE__, 'ee_options_page');
 }
 add_action('admin_menu', 'ee_add_pages');
 

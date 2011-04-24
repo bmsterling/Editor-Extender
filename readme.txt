@@ -4,7 +4,7 @@ Donate link:http://benjaminsterling.com/donations/
 Tags: richtext, table, editor, html, tinymce
 Requires at least: 3.0
 Tested up to: 3.1.1
-Stable tag: 0.2
+Stable tag: 0.2.1
 
 Extends the features of the rich text editor for Wordpress
 
@@ -14,7 +14,7 @@ Extends the features of the rich text editor for Wordpress by adding most of the
 
 Please submit any bugs or suggested improvements to <a href=\"https://github.com/bmsterling/Editor-Extender/issues\">https://github.com/bmsterling/Editor-Extender/issues</a>
 
-Need this plugin customize or need a plugin create, contact me via my contact form at <a href=\"http://kenzomedia.com\">http://kenzomedia.com</a>
+Need this plugin customized or need a plugin created, contact me via my contact form at <a href=\"http://kenzomedia.com\">http://kenzomedia.com</a>
 
 Also available through twitter, @bmsterling
 
